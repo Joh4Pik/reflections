@@ -1,0 +1,45 @@
+I am changing my files Mother Fuckers
+
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    caused it showed how the document evolved between the old and the new version, I mean what have been changed; added; removed.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    cause it helps to debug more quickly
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    you can get sloppy when naming or and saving the files. Thus, losing previous extra bit of information you might need.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+   I guess it depends of the purpose of the document, and how many people are working on the same document.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	to access different version of the same document and then compare them
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because in case I crash the all things I can still undue my change by restoring the previous version
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to finish this course and master the fundamentals of git and github to be then capable of finishing the basics of javascript course
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	cons you can forget,
+	pros you now when to save because it makes sense to you
+
+How can you use the commands git log and git diff to view the history of files?
+
+	bit using git log I can access the ID of every commit version. by accession git diff I can compare two version against each others.
